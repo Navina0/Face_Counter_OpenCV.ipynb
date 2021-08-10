@@ -1,6 +1,8 @@
 # Face_Counter_OpenCV.ipynb
 The repository contains a fascinating project from ShapeAI !!!
-Thank you for helping me out ShapeAI
+It is about counting the number of faces using openCV and python. 
+I got to learn a lot during these 7 days and it was an amazing experience learning with ShapeAI.
+Thank you for helping me out ShapeAI.
 
 
 
